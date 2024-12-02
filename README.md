@@ -10,6 +10,16 @@ This document presents the comparative execution time and a brief performance an
 
 ---
 
+## **Links**
+- [Youtube Video Demo](https://youtu.be/MI1Lojmh7V0)
+- [Google Sheets](https://docs.google.com/spreadsheets/d/1RmcmYTp1j9W37Lek3_fiPVRrQwVgZs-oP7rN8UH9siE/edit?gid=0#gid=0)
+
+---
+## **Sample Output**
+![image](https://github.com/user-attachments/assets/d812c01f-38a9-4b40-922c-cff83241aaa4)
+
+---
+
 ## **Execution Time Comparison**
 
 | **Vector Size** | **Average Time in C** | **Average in ASM** |
