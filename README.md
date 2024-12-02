@@ -11,9 +11,8 @@ This document presents the comparative execution time and a brief performance an
 ---
 
 ## **Links**
-[Youtube Video Demo](https://youtu.be/MI1Lojmh7V0)
-
-[Google Sheets](https://docs.google.com/spreadsheets/d/1RmcmYTp1j9W37Lek3_fiPVRrQwVgZs-oP7rN8UH9siE/edit?gid=0#gid=0)
+- [Youtube Video Demo](https://youtu.be/MI1Lojmh7V0)
+- [Google Sheets](https://docs.google.com/spreadsheets/d/1RmcmYTp1j9W37Lek3_fiPVRrQwVgZs-oP7rN8UH9siE/edit?gid=0#gid=0)
 
 ---
 
