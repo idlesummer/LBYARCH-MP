@@ -19,6 +19,7 @@ This document presents the comparative execution time and a brief performance an
 ![image](https://github.com/user-attachments/assets/d812c01f-38a9-4b40-922c-cff83241aaa4)
 
 This is the sample output for a size of 2^20. The program displays the first 10 values of each X and Y vectors, as well as for its resulting Z vector. The outputs and the execution time for both the SAXPY in C and in ASM are printed, and through that they can serve as a correctness check for each other.
+
 ---
 
 ## **Execution Time Comparison**
