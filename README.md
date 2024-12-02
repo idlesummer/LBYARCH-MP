@@ -12,7 +12,7 @@ This document presents the comparative execution time and a brief performance an
 
 ## **Links**
 - [Youtube Video Demo](https://youtu.be/MI1Lojmh7V0)
-- [Google Sheets](https://docs.google.com/spreadsheets/d/1RmcmYTp1j9W37Lek3_fiPVRrQwVgZs-oP7rN8UH9siE/edit?gid=0#gid=0)
+- [Google Sheets for Execution Time Summary](https://docs.google.com/spreadsheets/d/1RmcmYTp1j9W37Lek3_fiPVRrQwVgZs-oP7rN8UH9siE/edit?gid=0#gid=0)
 
 ---
 ## **Sample Output**
@@ -33,6 +33,7 @@ This is the sample output for a size of 2^20. The program displays the first 10 
 ---
 
 ## **Performance Analysis**
+Each Vector size was executed 30 times with the constant scalar declaration of **2**. 
 
 ### **Observations**
 1. **Smaller Vector Sizes:**
