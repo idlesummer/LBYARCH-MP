@@ -16,7 +16,7 @@ This document presents the comparative execution time and a brief performance an
 |-----------------|-----------------------|--------------------|
 | 2^20            | 2.23ms                | 0.86ms             |
 | 2^24            | 39.73ms               | 15.23ms            |
-| 2^30            | 115.32ms              | 87.45ms            |
+| 2^29            | 40164ms               | 31954ms            |
 
 ---
 

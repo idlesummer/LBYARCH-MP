@@ -1,4 +1,4 @@
-nasm -f win64 mco2.asm
-gcc -c mco2.c -o mco2.obj
-gcc mco2.obj mco2.obj -o mco2.exe
-mco2.exe
+nasm -f win64 asm_mco2.asm
+gcc -c c_mco2.c -o c_mco2.obj -m64
+gcc c_mco2.obj asm_mco2.obj -o c_mco2.exe -m64
+c_mco2.exe
