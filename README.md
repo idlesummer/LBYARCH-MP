@@ -28,19 +28,20 @@ This is the sample output for a size of 2^20. The program displays the first 10 
 |-----------------|-----------------------|--------------------|
 | 2^20            | 2.23ms                | 0.86ms             |
 | 2^24            | 39.73ms               | 15.23ms            |
-| 2^29            | 40164ms               | 31954ms            |
+| 2^29            | 40179.63ms            | 31960.73ms         |
 
 ---
 
 ## **Performance Analysis**
 
 ### **Observations**
-1. **Small Vector Sizes:**
-   - The performance difference between the C and assembly implementations is minimal.
-   - Computation time is not too significant to dominate the cost of overhead.
+1. **Smaller Vector Sizes:**
+   - The performance difference between the C and assembly implementations is not too significant.
+   - Computation time is not too significant to dominate the cost of hidden program overhead.
 
-2. **Large Vector Sizes:**
-   - Assembly shows significant performance gains over C.
+2. **Larger Vector Sizes:**
+    - Performance noticably starts to deviate.
+    - Assembly shows significant performance gains over C.
 
 ### **Advantages of Assembly Implementation**
 - **Lower Overhead:**  
